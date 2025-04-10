@@ -32,5 +32,3 @@ The main objective of this firmware is to enable real-time communication with th
 3. Flash the code using the “Run” button in the IDE.
 4. Open a serial monitor at 115200 baud to view CO₂ and TVOC output.
 
-## UART Output Example
-
